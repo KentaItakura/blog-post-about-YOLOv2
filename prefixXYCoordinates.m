@@ -1,3 +1,5 @@
+% This code was provided by MathWorks. 
+
 function boxWidthHeight = prefixXYCoordinates(boxWidthHeight)
     % Add x and y coordinates to boxes.
     n = size(boxWidthHeight,1);
