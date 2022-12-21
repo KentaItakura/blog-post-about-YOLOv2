@@ -1,3 +1,5 @@
+### このページは[こちら](https://kentapt.hatenablog.com/entry/matlabAdventDay21)の記事の原稿になります。もしよろしければ、この記事もご覧ください。
+
 # YOLOv2について
 
 この記事は、MATLABアドベントカレンダー（その2）の1x日目の記事として書かれています。
